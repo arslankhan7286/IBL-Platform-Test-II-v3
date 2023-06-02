@@ -1,0 +1,5 @@
+{
+	"name" : "wp-api/basic-auth",
+	"description" : "Basic Authentication handler for the API",
+	"type" : "wordpress-plugin"
+}
